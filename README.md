@@ -7,7 +7,10 @@
     ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝
 ```
 
-### TODO
+### preview
+![preview](https://github.com/nbstr/superlog/blob/master/_assets/preview.png?raw=true "beautiful comments anywhere")
+
+### next
 - auto split too long sentenses with a dash
 - allow config overwrite when arguments passed
 - auto detect characters height
