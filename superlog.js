@@ -587,6 +587,16 @@ function line2awesome(_lines_array) {
     return wide_line;
 };
 
+// INIT — DETECT CHARACTERS HEIGHT
+(function charHeight() {
+    superLog_config.char_height = 0;
+    for (var _c in superLog_config.alphabet) {
+        if(superLog_config.alphabet && superLog_config.alphabet[_c] && superLog_config.alphabet[_c].value){
+            superLog_config.char_height = Math.max(superLog_config.char_height, superLog_config.alphabet[_c].value.length);
+        }
+    }
+})()
+
 // MAIN
 function superLog(_txt, _config) {
     if(_config){
