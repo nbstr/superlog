@@ -1,2 +1,12 @@
-# superlog
-awesome multiline comments
+███████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗      ██████╗  ██████╗ 
+██╔════╝██║   ██║██╔══██╗██╔════╝██╔══██╗██║     ██╔═══██╗██╔════╝ 
+███████╗██║   ██║██████╔╝█████╗  ██████╔╝██║     ██║   ██║██║ ████╗
+╚════██║██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██║     ██║   ██║██║   ██║
+███████║╚██████╔╝██║     ███████╗██║  ██║███████╗╚██████╔╝╚██████╔╝██╗
+╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝
+
+// TODO
+// # auto split too long sentenses with a dash
+// # allow config overwrite when arguments passed
+// # auto detect characters height
+// # auto guess ideal sentense length
