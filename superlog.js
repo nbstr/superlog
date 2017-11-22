@@ -5,6 +5,11 @@
 //   ███████║╚██████╔╝██║     ███████╗██║  ██║███████╗╚██████╔╝╚██████╔╝██╗
 //   ╚══════╝ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝ ╚═════╝  ╚═════╝ ╚═╝
 
+// by n00bster
+// twitter — https://twitter.com/n_abster
+// linkedin — https://www.linkedin.com/in/nabilkamel/
+// hey project — https://get-hey.com
+
 // CONFIG
 var superLog_config = {
     // maximum line character
